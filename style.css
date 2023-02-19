@@ -1,7 +1,68 @@
+.header{
+    padding: 0 18.5%;
+}
 .icon-header{
     width: 50px;
 }
+
 .title{
     font-size: 18px;
     font-weight: bold;
+    
+}
+
+.order{
+    margin-left: 15%;
+    border: solid 1px #eeeeee;
+    border-radius: 15px;   
+    height: 40px;
+    background-color: #eeeeee;
+}
+
+.come-get{
+    margin-left: 10px;
+}
+
+.content-order-delivery{
+    margin-left: 5px;
+}
+
+.order-delivery:hover{
+    cursor: pointer;
+    background-color: red;
+    border-radius: 5px;
+    color: white;
+}
+
+.come-get:hover{
+    cursor: pointer;
+    background-color: red;
+    border-radius: 5px;
+    color: white;
+}
+
+.your-location{
+    border-radius: 15px;
+    border: solid 1px #b4b4b4;
+    width: 20%;
+    margin-left: 20px;
+    height: 35px;
+}
+
+.text-location{
+    border: none;
+    outline: none;
+}
+
+.icon-location{
+    color: #9f9999;
+}
+
+.authen{
+    margin-left: 150px;
+}
+
+.icon-authen{
+    font-size: 20px;
+    margin-right: 5px;
 }
