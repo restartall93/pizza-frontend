@@ -273,24 +273,31 @@
     border: solid 1px black;
     border-radius: 8px;
     height: 50px;
+    width: 250px;
+    background-color: #738c80;
 }
 
 .content-cart-2{
     font-size: 20px;
     margin-left: 10px;
+    color: white;
 }
 
 .icon{
     font-size: 20px;
+    color: white;
 }
 
 .purchase {
     border: solid 1px black;
     border-radius: 8px;
     height: 50px;
+    width: 250px;
+    background-color: #006a31;
 }
 
 .content-cart-3{
     font-size: 20px;
     margin-right: 10px;
+    color: white;
 }
